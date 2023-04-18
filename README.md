@@ -14,3 +14,9 @@ O funcionamento do gerenciador de memória virtual é baseado na demanda, ou sej
 
 ## Código
 
+
+## Referências:
+
+OLIVEIRA, Rômulo S.; CARISSIMI, Alexandre S.; TOSCANI, Simão S. Sistemas Operacionais-Vol. 11. 2009.
+TANENBAUM, Andrew S.; MACHADO FILHO, Nery. Sistemas operacionais modernos. Prentice-Hall, 1995.
+Notas de aulas de João Marcelo Borovina Josko
